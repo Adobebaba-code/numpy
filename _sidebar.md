@@ -1,20 +1,20 @@
 - 第一章
 
-  - [数据类型及数组创建](part1/part1.md)
+  - [数据类型及数组创建](part1/第一章：part1.md)
 
 - 第二章
 
-  - [索引](part2/part2.md)
+  - [索引](part2/第二章：part2.md)
 
 - 第三章
 
-  - [数组的操作](part3/part3.md)
+  - [数组的操作](part3/第三章：part3.md)
   
 - 第四章
 
-  - [数学函数及逻辑函数](part4/part4.md)
+  - [数学函数及逻辑函数](part4/第四章：part4.md)
   
 - 第五章
 
-  -[排序、搜索、计数及集合操作](part5/part5.md)
+  -[排序、搜索、计数及集合操作](part5/第五章：part5.md)
 
